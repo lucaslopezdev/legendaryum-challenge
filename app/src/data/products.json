@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "name": "Chronicles of Eternia",
+    "view_id": 1,
+    "category_id": 1,
+    "price": 100,
+    "description": "Embark on an epic journey in the mystical world of Eternia. Unravel the mysteries of ancient civilizations, battle mythical creatures, and shape the destiny of the realm in this immersive RPG adventure."
+  },
+  {
+    "id": 2,
+    "name": "Legends of Eldoria",
+    "view_id": 1,
+    "category_id": 2,
+    "price": 200,
+    "description": "Immerse yourself in the vast and dynamic world of Eldoria. Join forces with players from around the globe in this massive multiplayer online RPG. Conquer dungeons, forge alliances, and become a legend in Eldoria."
+  },
+  {
+    "id": 3,
+    "name": "Virtual Experience Ticket: Dive into the Digital Realm",
+    "view_id": 2,
+    "category_id": 3,
+    "price": 300,
+    "description": "Experience the wonders of virtual reality with our exclusive ticket. Immerse yourself in a world of virtual adventures and exciting experiences. Limited tickets available - get yours now!"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Extravaganza Ticket: Unlock the Ultimate Gaming Experience",
+    "view_id": 2,
+    "category_id": 4,
+    "price": 300,
+    "description": "Calling all gamers! Elevate your gaming experience with our exclusive ticket. Access premium games, challenges, and surprises. Limited tickets available - level up your gaming now!"
+  },
+  {
+    "id": 5,
+    "name": "Virtual Adventure Ticket: Explore the Virtual Frontier",
+    "view_id": 2,
+    "category_id": 3,
+    "price": 300,
+    "description": "Embark on a virtual adventure like never before. Our exclusive ticket grants you access to thrilling virtual experiences and breathtaking landscapes. Limited tickets available - secure yours today!"
+  },
+  {
+    "id": 6,
+    "name": "Exciting News: Apple Unveils Revolutionary Virtual Reality Glasses",
+    "view_id": 3,
+    "category_id": 5,
+    "description": "In a groundbreaking announcement, Apple has revealed its latest innovation in the tech world - cutting-edge virtual reality glasses. Packed with advanced features and sleek design, these glasses promise to redefine the way we experience virtual reality. Stay tuned for the future of immersive technology from Apple!"
+  },
+  {
+    "id": 7,
+    "view_id": 3,
+    "category_id": 6,
+    "name": "Meta's Next Big Move: Introducing Game-Changing VR Glasses",
+    "description": "Exciting times ahead as Meta, formerly known as Facebook, introduces its latest marvel - state-of-the-art virtual reality glasses. Dive into a new dimension of gaming and social interaction with Meta's groundbreaking technology. Discover a world where the virtual and real seamlessly merge!"
+  },
+  {
+    "id": 8,
+    "view_id": 3,
+    "category_id": 5,
+    "name": "Apple's VR Breakthrough: Experience the Future with New Glasses",
+    "description": "Breaking news from Apple: Unleashing a new era of virtual reality with their cutting-edge glasses. Immerse yourself in stunning visuals, interactive experiences, and a world of possibilities. Apple's VR glasses are set to transform the way we connect and engage with digital content. Get ready for the future, redefined by Apple!"
+  },
+  {
+    "id": 9,
+    "name": "Virtual Masterclass Ticket: Learn the Secrets of the Virtual World",
+    "view_id": 2,
+    "category_id": 5,
+    "price": 300,
+    "description": "Enhance your virtual skills with our exclusive masterclass ticket. Dive into the world of virtual reality learning with expert instructors. Limited tickets available - secure your spot in the virtual classroom!"
+  },
+  {
+    "id": 10,
+    "name": "Epic Gaming Challenge Ticket: Conquer the Ultimate Gaming Challenge",
+    "view_id": 2,
+    "category_id": 4,
+    "price": 300,
+    "description": "Calling all gamers! Take on the ultimate gaming challenge with our exclusive ticket. Face epic battles, solve mind-bending puzzles, and emerge victorious. Limited tickets available - accept the challenge now!"
+  },
+  {
+    "id": 11,
+    "name": "Virtual Concert Ticket: Front Row Access to a Virtual Musical Extravaganza",
+    "view_id": 2,
+    "category_id": 3,
+    "price": 300,
+    "description": "Experience the magic of live music in the virtual realm. Our exclusive concert ticket grants you front-row access to a virtual musical extravaganza. Limited tickets available - get ready to dance in the virtual spotlight!"
+  },
+  {
+    "id": 12,
+    "name": "Gamer's Paradise Ticket: Immerse Yourself in a World of Gaming Wonders",
+    "view_id": 2,
+    "category_id": 4,
+    "price": 500,
+    "description": "Step into a gamer's paradise with our exclusive ticket. Immerse yourself in an unparalleled world of gaming wonders, surprises, and challenges. Limited tickets available - level up your gaming experience!"
+  },
+  {
+    "id": 13,
+    "name": "Legendary Quest Ticket: Embark on a Virtual Legendary Adventure",
+    "view_id": 2,
+    "category_id": 4,
+    "price": 600,
+    "description": "Join the quest for greatness with our exclusive ticket. Embark on a virtual legendary adventure filled with quests, treasures, and mythical challenges. Limited tickets available - become a legend in the virtual realm!"
+  },
+  {
+    "id": 14,
+    "name": "Virtual Reality Expo Ticket: Explore the Latest in VR Innovation",
+    "view_id": 2,
+    "category_id": 3,
+    "price": 900,
+    "description": "Step into the future of virtual reality with our exclusive expo ticket. Explore the latest innovations, demos, and breakthroughs in the world of VR. Limited tickets available - be at the forefront of VR technology!"
+  },
+  {
+    "id": 15,
+    "name": "Eternal Realms: Chronicles of Destiny",
+    "view_id": 1,
+    "category_id": 1,
+    "price": 900,
+    "description": "Embark on a journey through the Eternal Realms. Uncover the Chronicles of Destiny as you shape the fate of a vast and magical world. Immerse yourself in this epic RPG adventure where every choice matters."
+  },
+  {
+    "id": 16,
+    "name": "Virtual Kingdoms: Saga of Legends",
+    "view_id": 1,
+    "category_id": 1,
+    "price": 900,
+    "description": "Join the Virtual Kingdoms and become a legend in the Saga of Legends. Immerse yourself in a massive multiplayer online RPG where kingdoms rise and fall, and heroes carve their destiny in an ever-expanding virtual realm."
+  },
+  {
+    "id": 17,
+    "name": "Mystic Quest: Enigma's Awakening",
+    "view_id": 1,
+    "category_id": 1,
+    "price": 900,
+    "description": "Embark on a virtual adventure like never before. Our exclusive ticket grants you access to thrilling virtual experiences and breathtaking landscapes in Mystic Quest: Enigma's Awakening."
+  },
+  {
+    "id": 18,
+    "name": "Gamer's Paradise Ticket: Immerse Yourself in a World of Gaming Wonders",
+    "view_id": 1,
+    "category_id": 2,
+    "price": 900,
+    "description": "Step into a gamer's paradise with our exclusive ticket. Immerse yourself in an unparalleled world of gaming wonders, surprises, and challenges. Limited tickets available - level up your gaming experience!"
+  },
+  {
+    "id": 19,
+    "name": "Virtual Adventure Ticket: Explore the Virtual Frontier",
+    "view_id": 1,
+    "category_id": 2,
+    "price": 900,
+    "description": "Embark on a virtual adventure like never before. Our exclusive ticket grants you access to thrilling virtual experiences and breathtaking landscapes. Limited tickets available - secure yours today!"
+  },
+  {
+    "id": 20,
+    "name": "Virtual Showcase Ticket: Witness the Future of VR Creations",
+    "view_id": 2,
+    "category_id": 3,
+    "price": 900,
+    "description": "Be part of a virtual revolution with our exclusive showcase ticket. Witness the future of VR creations, innovations, and artistic wonders. Limited tickets available - secure your front-row seat to the virtual showcase!"
+  },
+  {
+    "id": 21,
+    "name": "Virtual Reality Experience Ticket: Immerse Yourself in Unforgettable Moments",
+    "view_id": 2,
+    "category_id": 3,
+    "price": 900,
+    "description": "Indulge in unforgettable moments with our exclusive virtual reality experience ticket. Immerse yourself in breathtaking landscapes, thrilling adventures, and immersive storytelling. Limited tickets available - make memories in the virtual realm!"
+  },
+  {
+    "id": 22,
+    "view_id": 3,
+    "category_id": 5,
+    "name": "Apple's Latest Tech Marvel: Unveiling Revolutionary VR Glasses",
+    "description": "Hold your breath as Apple takes a giant leap into the future with the launch of their groundbreaking VR glasses. Experience a virtual reality like never before - immersive, seamless, and powered by Apple's signature innovation. Stay on the edge of technology with the latest from Apple!"
+  },
+  {
+    "id": 23,
+    "view_id": 3,
+    "category_id": 5,
+    "name": "Apple's Next Big Thing: Dive into Virtual Reality with New Glasses",
+    "description": "Exciting times ahead as Apple unveils its latest marvel - state-of-the-art virtual reality glasses. Immerse yourself in a world of possibilities with cutting-edge technology designed to enhance your digital experiences. Apple's VR glasses are set to redefine the way we interact with the virtual realm. Get ready for a revolutionary journey!"
+  },
+  {
+    "id": 24,
+    "view_id": 3,
+    "category_id": 6,
+    "name": "Meta's VR Revolution: Introducing Futuristic Glasses for Immersive Experiences",
+    "description": "Meta takes a bold step into the future with the launch of their groundbreaking VR glasses. Immerse yourself in a world where reality meets the virtual, bringing a new dimension to gaming, social interactions, and beyond. Meta's VR glasses promise to revolutionize the way we perceive and engage with the digital universe!"
+  }
+]

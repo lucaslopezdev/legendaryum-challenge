@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Games🎮",
+    "route": "games",
+    "description": "A lot of games for you, enjoy."
+  },
+  {
+    "id": 2,
+    "name": "Tickets🎫",
+    "route": "tickets",
+    "description": "Here you have your tickets."
+  },
+  {
+    "id": 3,
+    "name": "Virtual Reality💻",
+    "route": "vr",
+    "description": "The best news about the world of virtual reality"
+  }
+]

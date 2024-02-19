@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .componentClass {
+    @apply flex flex-col text-center border my-4 mx-6 p-6 hover:cursor-pointer transition-all duration-100
+  }
+}
+
+body {
+  background-color: #020710;
+  color: white
+}

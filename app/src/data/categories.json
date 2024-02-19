@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "RPG",
+    "view_id": 1,
+    "description": "RPG: means Role Playing Game, that is, Role Playing Game. The player takes the role of a character who can advance, evolve and change in a world with enemies, shops, items to sell or use and special attacks."
+  },
+  {
+    "id": 2,
+    "name": "MMORPG ",
+    "view_id": 1,
+    "description": "Massively multiplayer online role-playing games or MMORPGs (acronym in English for massively multiplayer online role-playing game), are role-playing video games that allow thousands of players to enter a virtual world simultaneously through the Internet and interact with each other."
+  },
+  {
+    "id": 3,
+    "name": "Virtual Experience",
+    "view_id": 2,
+    "description": "Experience the wonders of virtual reality with our exclusive ticket"
+  },
+  {
+    "id": 4,
+    "name": "Epic Gamings",
+    "view_id": 2,
+    "description": "Take on the ultimate gaming challenge with our exclusive ticket."
+  },
+  {
+    "id": 5,
+    "name": "Apple",
+    "view_id": 3,
+    "description": "Find out everything about the new Apple Vision Pro"
+  },
+  {
+    "id": 6,
+    "name": "Meta",
+    "view_id": 3,
+    "description": "Find out everything about the new quest 3"
+  },
+  {
+    "id": 7,
+    "name": "Coming soon 1..",
+    "view_id": 1,
+    "description": "Category created to test category injection"
+  },
+  {
+    "id": 8,
+    "name": "Coming soon 2..",
+    "view_id": 1,
+    "description": "Category created to test category injection"
+  }
+]
